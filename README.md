@@ -1,7 +1,3 @@
-<img align="left" height="400" src="https://i.imgur.com/Ie8o70d.png"  />
-
-###
-
 <h1 align="left">LOGFREAK</h1>
 
 ###
