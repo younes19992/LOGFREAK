@@ -21,7 +21,10 @@
 <p align="left">Open "LogFreak.py" and answer the promoted questions.</p>
 
 ###
-
+<h2 align="left">INSTALLATION</h2>
+###
+<p align="left">Download the libraries by running the following command in the Python directory:`pip install -r requirements.txt`</p>
+###
 <h2 align="left">Made with:</h2>
 
 ###
